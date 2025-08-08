@@ -1,0 +1,21 @@
+# Dependências para Análise de Dados - Loja Bemol
+# Para instalar: pip install -r requirements.txt
+
+# Manipulação e análise de dados
+pandas>=1.5.0
+
+# Computação científica e operações matemáticas
+numpy>=1.21.0
+
+# Visualização de dados
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Leitura de arquivos Excel
+openpyxl>=3.0.0
+
+# Processamento de datas (já incluído no Python padrão, mas listado para referência)
+# datetime - biblioteca padrão
+
+# Supressão de warnings (já incluído no Python padrão)
+# warnings - biblioteca padrão 
